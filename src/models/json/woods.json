@@ -1,0 +1,58 @@
+{
+  "woods": [
+    {
+      "title": "c",
+      "artist": "c",
+      "duration": 1,
+      "_id": "c5b38c65-0d59-45c3-88b7-1b963d1472f0",
+      "categoryid": "5448e0ee-81e5-47a7-b099-4b56da605687"
+    },
+    {
+      "title": "Caragh",
+      "artist": "50",
+      "duration": 43,
+      "_id": "c1ce4de9-45d9-40c8-8187-ab8835b68ba8",
+      "categoryid": "116577db-1262-4804-840d-e9e3f48ae94b"
+    },
+    {
+      "title": "Clogrennan",
+      "description": "broadleaved woodland, heritage site (stone bridge), picnic area",
+      "latitude": 50,
+      "longitude": 6,
+      "_id": "09799933-96c0-4a7d-99e0-07a592e447d3",
+      "categoryid": "45f85321-4fa1-414e-92e0-0800758b8aec"
+    },
+    {
+      "title": "Dun a Ri",
+      "description": "broadleaved woodland, small lake, heritage sites (holy wells, fairy rings), picnic area, toilets, viewpoint",
+      "latitude": 56.9876,
+      "longitude": -9.74646,
+      "_id": "cb2a7ce1-568e-4656-9e32-8b8ab2636f6f",
+      "categoryid": "45f85321-4fa1-414e-92e0-0800758b8aec"
+    },
+    {
+      "title": "Doon",
+      "description": "broadleaved and conifer, oak, birch, alder, spruce, lakeside, lake, river,  picnic area, viewpoints",
+      "latitude": 50.56678,
+      "longitude": 6.58575,
+      "_id": "e28b817e-8a9a-4269-a2d7-973a0f690892",
+      "categoryid": "97d9e94c-9352-42a1-b91a-f27aa38d011c"
+    },
+    {
+      "title": "Kilrush",
+      "description": "broadleaved and some conifer, oak, ash, birch, beech, spruce, river,  heritage site (holy well), picnic area, cafe, toilets",
+      "latitude": 566767,
+      "longitude": 67657658,
+      "_id": "354c1d0c-47a1-4029-aef2-832b15596b72",
+      "categoryid": "97d9e94c-9352-42a1-b91a-f27aa38d011c"
+    },
+    {
+      "title": "Castlefreke",
+      "description": "broadleaved and conifer woodland, heritage sites (church, castles), viewpoints, picnic area, cafe",
+      "latitude": 76.79879,
+      "longitude": 87.77998,
+      "_id": "a4f5da47-1837-44fa-b0a7-02eb72811e5d",
+      "categoryid": "97d9e94c-9352-42a1-b91a-f27aa38d011c"
+    }
+  ]
+}
