@@ -53,6 +53,14 @@
       "longitude": 87.77998,
       "_id": "a4f5da47-1837-44fa-b0a7-02eb72811e5d",
       "categoryid": "97d9e94c-9352-42a1-b91a-f27aa38d011c"
+    },
+    {
+      "title": "glade",
+      "description": "woods",
+      "latitude": 50.1,
+      "longitude": 6.7,
+      "_id": "7e74b30a-af32-4c3c-9c87-34d6a246bcd9",
+      "categoryid": "6f64a66c-e0b0-4ced-bbec-b988d1af869c"
     }
   ]
 }

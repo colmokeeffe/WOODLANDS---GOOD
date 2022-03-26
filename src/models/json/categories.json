@@ -2,20 +2,15 @@
   "categories": [
     {
       "title": "The Doire Woods",
-      "_id": "7deaa423-0943-4d06-bda5-8f5b9421becf"
+      "_id": "d095c8e3-8168-428f-baef-b6b95353e30f"
     },
     {
       "title": "The Oaken Glade",
-      "_id": "4d804622-7e76-4b81-b63a-24e172ba34af"
+      "_id": "31c93662-7731-4625-be8b-bce8eeff7f15"
     },
     {
       "title": "The 5 Oaks",
-      "_id": "e476d710-ce7f-46d0-bba6-0ff46f6051ba"
-    },
-    {
-      "userid": "d5e58852-abc7-4f3c-86b9-c5dae080a32e",
-      "title": "oak",
-      "_id": "bfbdd941-9e0c-4207-8bd0-6c53b2b64203"
+      "_id": "4c8f3d36-2fbb-414e-aaa2-0f5c0f970915"
     }
   ]
 }
